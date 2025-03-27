@@ -1,6 +1,5 @@
 (sym_lib_table
-  (lib (name SNES2VGA_Library)(type Legacy)(uri ${KIPRJMOD}/SNES2VGA_Library.lib)(options "")(descr ""))
-  (lib (name power)(type Legacy)(uri /Users/jeffchen/KiCAD/My_Library/power/power.lib)(options "")(descr ""))
-  (lib (name Jumper)(type Legacy)(uri /Users/jeffchen/KiCAD/My_Library/Jumper/Jumper.lib)(options "")(descr ""))
-  (lib (name SNES2VGA-rescue)(type Legacy)(uri ${KIPRJMOD}/SNES2VGA-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "SNES2VGA_Library")(type "KiCad")(uri "${KIPRJMOD}/SNES2VGA_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "SNES2VGA-rescue")(type "KiCad")(uri "${KIPRJMOD}/SNES2VGA-rescue.kicad_sym")(options "")(descr ""))
 )

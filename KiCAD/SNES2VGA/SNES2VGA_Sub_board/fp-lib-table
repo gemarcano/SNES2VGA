@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name SNES2VGA_Library)(type KiCad)(uri /Users/jeffchen/KiCAD/SNES2VGA_Slim/SNES2VGA_Library.pretty)(options "")(descr ""))
+  (version 7)
+  (lib (name "SNES2VGA_Library")(type "KiCad")(uri "${KIPRJMOD}/../SNES2VGA_Library.pretty")(options "")(descr ""))
 )
