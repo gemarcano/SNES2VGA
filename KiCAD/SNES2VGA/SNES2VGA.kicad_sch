@@ -3570,7 +3570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A106MQ8NNNC_Spec.pdf"
 			(at 162.56 121.92 0)
 			(effects
 				(font
@@ -3580,6 +3580,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 162.56 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "1276-1119-1-ND"
+			(at 162.56 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL10A106MQ8NNNC"
 			(at 162.56 121.92 0)
 			(effects
 				(font
@@ -3638,7 +3656,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A106MQ8NNNC_Spec.pdf"
 			(at 170.18 127 0)
 			(effects
 				(font
@@ -3648,6 +3666,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "1276-1119-1-ND"
+			(at 170.18 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "CL10A106MQ8NNNC"
 			(at 170.18 127 0)
 			(effects
 				(font
@@ -3705,7 +3741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 113.03 87.63 0)
 			(effects
 				(font
@@ -3715,6 +3751,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 113.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "311-470HRCT-ND"
+			(at 113.03 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "RC0603FR-07470RL"
 			(at 113.03 87.63 0)
 			(effects
 				(font
@@ -3838,7 +3892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01A.pdf"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -3848,6 +3902,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 118.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "490-GRM31CR60J227ME11KCT-ND"
+			(at 118.11 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "GRM31CR60J227ME11K"
 			(at 118.11 52.07 0)
 			(effects
 				(font
@@ -3907,7 +3979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01A.pdf"
 			(at 128.27 59.69 0)
 			(effects
 				(font
@@ -3917,6 +3989,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 128.27 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "490-GRM31CR60J227ME11KCT-ND"
+			(at 128.27 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "GRM31CR60J227ME11K"
 			(at 128.27 59.69 0)
 			(effects
 				(font
@@ -3976,7 +4066,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01A.pdf"
 			(at 137.16 67.31 0)
 			(effects
 				(font
@@ -3986,6 +4076,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 137.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "490-GRM31CR60J227ME11KCT-ND"
+			(at 137.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "GRM31CR60J227ME11K"
 			(at 137.16 67.31 0)
 			(effects
 				(font
@@ -4109,7 +4217,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 198.12 54.61 0)
 			(effects
 				(font
@@ -4119,6 +4227,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 198.12 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "13-RC0603FR-1075RLCT-ND"
+			(at 198.12 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "RC0603FR-1075RL"
 			(at 198.12 54.61 0)
 			(effects
 				(font
@@ -4177,7 +4303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 198.12 34.29 0)
 			(effects
 				(font
@@ -4187,6 +4313,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 198.12 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "13-RC0603FR-1075RLCT-ND"
+			(at 198.12 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "RC0603FR-1075RL"
 			(at 198.12 34.29 0)
 			(effects
 				(font
@@ -4245,7 +4389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 198.12 44.45 0)
 			(effects
 				(font
@@ -4255,6 +4399,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 198.12 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "13-RC0603FR-1075RLCT-ND"
+			(at 198.12 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "RC0603FR-1075RL"
 			(at 198.12 44.45 0)
 			(effects
 				(font
@@ -4313,7 +4475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
 			(at 198.12 22.86 0)
 			(effects
 				(font
@@ -4323,6 +4485,24 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 198.12 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "13-RC0603FR-1075RLCT-ND"
+			(at 198.12 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "RC0603FR-1075RL"
 			(at 198.12 22.86 0)
 			(effects
 				(font
@@ -4518,7 +4698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM31CR60J227ME11-01A.pdf"
 			(at 142.24 102.87 0)
 			(effects
 				(font
@@ -4528,6 +4708,24 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 142.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey Product Number" "490-GRM31CR60J227ME11KCT-ND"
+			(at 142.24 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Product Number" "GRM31CR60J227ME11K"
 			(at 142.24 102.87 0)
 			(effects
 				(font
